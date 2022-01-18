@@ -1,0 +1,21 @@
+= Übersicht
+Doc Writer <huluvu424242@gmail.com>
+v1.0, {docdate}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+
+
+:Author:    Thomas Schubert
+:Email:     <huluvu424242@gmail.com>
+:toc-title: Übersicht
+
+* link:zone7/inhalt.html[Zone 7,role=external,window=_blank]
+* link:neuland/inhalt.html[Neuland,role=external,window=_blank]
+
+.Built-in
+asciidoctor-version:: {asciidoctor-version}
+safe-mode-name:: {safe-mode-name}
+docdir:: {docdir}
+docfile:: {docfile}
+imagesdir:: {imagesdir}
+docdate:: {docdate}
