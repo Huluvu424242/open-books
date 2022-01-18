@@ -42,14 +42,14 @@ Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
 ....
 
-[graphviz, dot-example, svg]
-----
-digraph g {
-    a -> b
-    b -> c
-    c -> d
-    d -> a
-}
+//[graphviz, dot-example, svg]
+//----
+//digraph g {
+//    a -> b
+//    b -> c
+//    c -> d
+//    d -> a
+//}
 ----
 
 == Attributes
