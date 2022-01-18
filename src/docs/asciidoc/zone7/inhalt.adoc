@@ -1,0 +1,10 @@
+= Zone 7 
+
+:author: Huluvu424242
+:email: huluvu424242@gmail.com
+
+include::zone7/kapitel1.adoc[]
+
+include::zone7/kapitel2.adoc[]
+
+include::zone7/kapitel3.adoc[]

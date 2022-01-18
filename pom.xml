@@ -79,6 +79,7 @@
                         </goals>
                         <configuration>
                             <backend>html5</backend>
+                            <preserveDirectories>true</preserveDirectories>
                             <attributes>
                                 <imagesdir>./images</imagesdir>
                                 <toc>left</toc>
