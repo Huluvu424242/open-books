@@ -29,7 +29,7 @@ jobs:
         git config --global user.email "huluvu424242@gmail.com"
         git config --global user.name "Huluvu424242"
         git remote set-url --push origin https://OWNER:${GITHUB_TOKEN}@github.com/Huluvu424242/open-books.git
-        git add ../../docs/*
+        git add docs/*
         git commit -am "neue Doku generiert"
         git push
 
