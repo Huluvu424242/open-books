@@ -8,18 +8,18 @@ ifndef::imagesdir[:imagesdir: images]
 :Email:     <huluvu424242@gmail.com>
 :toc-title: Übersicht
 
-# Bücher
+## Bücher
 
 
 
 * link:zone7/inhalt.html[Zone 7,role=external,window=_blank]
 * link:neuland/inhalt.html[Neuland,role=external,window=_blank]
 
-# Gedichte
+## Gedichte
 
-# Zitate
+## Zitate
 
-# Metadaten
+## Metadaten
 
 .Built-in
 asciidoctor-version:: {asciidoctor-version}
