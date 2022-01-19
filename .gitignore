@@ -1,6 +1,7 @@
 /.idea/
 /target/
 .asciidoctor
+*.iml
 
 # Compiled class file
 *.class
