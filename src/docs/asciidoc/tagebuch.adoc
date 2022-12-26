@@ -7,3 +7,6 @@ xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 [ xref:zone7/AbschiedFloridaArklab.adoc[Heute ist die Zukunft von gestern] ]
 [ xref:zone7/Anreise.adoc[Anreise] ]
 [ xref:zone7/MyHome.adoc[Mein neues Heim] ]
+
+
+xx.xx.4050 [ xref:zone7/WartenAufDenTod.ado[Warten auf den Tod] ]
