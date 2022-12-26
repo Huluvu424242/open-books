@@ -3,6 +3,7 @@
 :author: Huluvu424242
 :email: huluvu424242@gmail.com
 
+include::zone7/WartenAufDenTod.adoc[]
 include::zone7/AbschiedFloridaArklab.adoc[]
 include::zone7/Anreise.adoc[]
 include::zone7/MyHome.adoc[]

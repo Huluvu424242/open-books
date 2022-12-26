@@ -9,4 +9,4 @@ xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 [ xref:zone7/MyHome.adoc[Mein neues Heim] ]
 
 
-xx.xx.4050 [ xref:zone7/WartenAufDenTod.ado[Warten auf den Tod] ]
+xx.xx.4050 [ xref:zone7/WartenAufDenTod.adoc[Warten auf den Tod] ]
