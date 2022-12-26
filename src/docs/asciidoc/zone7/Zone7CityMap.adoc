@@ -1,5 +1,5 @@
 
 
 
-image::zone7/images/Zone7Aufbau.jpg[]
+image::Zone7Aufbau.jpg[]
 
