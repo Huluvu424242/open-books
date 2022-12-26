@@ -1,5 +1,5 @@
 // Kurzgeschichte "Zone 7" - Kapitel 2
-[#Reise]
+[#reise]
 == Der Weg ist das Ziel
 [quote, Marie von Ebner-Eschenbach]
 Wer ans Ziel getragen wurde; darf nicht glauben; es erreicht zu haben. 
