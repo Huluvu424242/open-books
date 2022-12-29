@@ -1,6 +1,6 @@
 # Open Books
 
-* [Zone 7](https://huluvu424242.github.io/open-books/zone7/WartenAufDenTod.html)
+* [Zone 7](https://huluvu424242.github.io/open-books/zone7/einstieg.html)
 * [Neuland](https://huluvu424242.github.io/open-books/neuland/inhalt.html)
 
 
