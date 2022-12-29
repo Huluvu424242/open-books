@@ -49,3 +49,5 @@ inständig, dass es Nick schafft noch rechtzeitig zu kommen. Es gibt so vieles d
 möchte. Doch wo fange ich an? Erzähle ich ihm von unseren Aufbruch ins xref:../neuland/inhalt.adoc[Neuland]
 oder lieber doch gleich von meiner Arbeit in Zone 7? Ich denke es wird einfacher werden wenn ich mit
 xref:AbschiedFloridaArklab.adoc[Zone 7] beginne.
+
+
