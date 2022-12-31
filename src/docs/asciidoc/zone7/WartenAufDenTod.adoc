@@ -46,7 +46,7 @@ sehr gute Frau gefunden und uns einen weiteren Enkel geschenkt.
 Schließlich habe ich im Laufe meines Lebens noch viel recherchiert und selber gelernt und mir sehr
 viel Wissen angeeignet, so dass ich es Schade fände wenn dieses Wissen verloren geht. Darum hoffe ich
 inständig, dass es Nick schafft noch rechtzeitig zu kommen. Es gibt so vieles das ich ihm noch erzählen
-möchte. Doch wo fange ich an? Erzähle ich ihm von unseren Aufbruch ins xref:../neuland/inhalt.adoc[Neuland]
+möchte. Doch wo fange ich an? Erzähle ich ihm von unseren Aufbruch ins Neuland
 oder lieber doch gleich von meiner Arbeit in Zone 7? Ich denke es wird einfacher werden wenn ich mit
 xref:AbschiedFloridaArklab.adoc[Zone 7] beginne.
 
