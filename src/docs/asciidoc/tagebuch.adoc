@@ -11,7 +11,7 @@ xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 [ xref:zone7/Anreise.adoc[Der Weg ist das Ziel] ]
 [ xref:zone7/MyHome.adoc[My home is my castle] ]
 
-25.12.4022 xfef:zone7/Mein54Geburtstag.adoc[Mein 54. Geburtstag]
+25.12.4022 xref:zone7/Mein54Geburtstag.adoc[Mein 54. Geburtstag]
 
 
 xx.xx.4050 [ xref:zone7/WartenAufDenTod.adoc[Am Anfang war ich so beliebt ...] ]
