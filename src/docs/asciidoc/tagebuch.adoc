@@ -13,6 +13,7 @@ xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 [ xref:zone7/Vorbereitung.adoc[Vorbereitung ist das halbe Leben] ]
 
 15.04.4023 Erster Arbeitstag in der Augmentsfirma
+[ xref:zone7/Vorbereitung.adoc[Vorbereitung] ]
 [ xref:zone7/ErsterTag.adoc[Mein erster Tag] ]
 [ xref:zone7/ErsteWoche.adoc[Meine erste Woche] ]
 
