@@ -96,7 +96,10 @@
                             <preserveDirectories>true</preserveDirectories>
                             <attributes>
                                 <imagesdir>./images</imagesdir>
-<!--                                <toc>Auto</toc>-->
+                                <revnumber>${project.version}</revnumber>
+                                <revdate>${maven.build.timestamp}</revdate>
+                                <docdate>${maven.build.timestamp}</docdate>
+                                <doctime/>
                                 <icons>font</icons>
                                 <sectanchors>true</sectanchors>
                                 <idprefix/>
