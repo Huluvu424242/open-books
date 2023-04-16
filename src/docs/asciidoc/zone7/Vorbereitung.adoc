@@ -10,4 +10,4 @@ suchen und mich auf meine erste Arbeitswoche vorzubereiten.
 
 
 
-[ xref:zone7/ErsterTag.adoc[In der Historie von AKW Ausstieg und Genomentschlüsselung] ]
+[ xref:ErsterTag.adoc[In der Historie von AKW Ausstieg und Genomentschlüsselung] ]
