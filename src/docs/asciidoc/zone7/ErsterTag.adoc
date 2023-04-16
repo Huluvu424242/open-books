@@ -1,6 +1,6 @@
 [#erstewoche]
 == In der Historie von AKW Ausstieg und Genomentschlüsselung
-[quote, Seibold, Klaus]
+[quote, Klaus Seibold]
 Nicht nur ein Computer braucht ab und zu einen "Reset".
 
 Am 14.04.2003 wurde das menschliche Genom zu 99% entschlüsselt
