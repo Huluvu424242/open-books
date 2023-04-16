@@ -1,6 +1,6 @@
 = Neuland
 Huluvu424242 <huluvu424242@gmail.com>
-> Eine Geschichte über das Leben der Menschen im Überlebenskampf der Menschheit
+Eine Geschichte über das Leben der Menschen im Überlebenskampf der Menschheit
 
 :author: Huluvu424242
 :email: huluvu424242@gmail.com
@@ -8,11 +8,11 @@ Huluvu424242 <huluvu424242@gmail.com>
 include::neuland/00_Vorwort.adoc[]
 
 include::neuland/01_FeindlicheUebernahme.adoc[]
-   
+
 include::neuland/02_ZurueckAufNull.adoc[]
-   
+
 include::neuland/03_Traum.adoc[]
-   
+
 include::neuland/04_ErsterArbeitstag.adoc[]
-   
+
 include::neuland/XX_Rueckseite.adoc[]
