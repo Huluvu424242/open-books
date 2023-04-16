@@ -1,0 +1,62 @@
+[#erstewoche]
+== Bessere Tage nahen - sie heißen Samstag & Sonntag
+[quote, Seneca]
+Glück ist, was passiert, wenn Vorbereitung auf Gelegenheit trifft.
+
+
+Eine Präsentation zum Entwicklungszyklus.
+Bei der Entwicklung von Augments ist es wie bei der Softwarentwicklung. Am Beginn eines neuen Projektes stehen nur wenige
+fachliche Anforderungen als Durchstich zur Realisierung an. Zu diesem Zeitpunkt werden den Entwicklern und Architekten
+enorme Zeiträume zum Erforschen neuer Technologien, Frameworks und Werkzeugen zur Verfügung gestellt.
+Nach einiger Zeit wird dann aber auch erwartet, dass sich ein Fortschritt zeigt. Zumindest eine Entscheidung welche
+Dinge eingesetzt werden sollen, wird erwartet oder alternativ die Realisierung des ersten Features in einer evtl.
+noch zu verwerfenden Technologie. Technische Schulden sind an der Stelle noch nicht vorhanden, denn es wurde noch
+nichts produktiv gestellt.
+
+Ab dem Zeitpunkt an dem das erste fachliche Feature live gestellt wurde, ändern sich die Arbeitsbedingungen zum
+Erstellen von Software grundsätzlich. Dieser Zeitpunkt ist der Beweis, dass die ausgewählten Kombinationen aus
+Technologie, Framework und Werkzeug funktionieren und eine Umsetzung fachlicher Anforderungen damit möglich ist.
+Fortan wird also erwartet, dass weitere fachliche Feature nun am Fließband produziert werden können. Natürlich
+in der beispielhaft erbrachten hohen Qualität und Güte. Das Entwicklungsteam muss nun eine Methode zur Softwareentwicklung
+finden in der die fachlichen Feature schnell und in hoher Qualität und Güte erstellt werden können ohne dabei
+technische Schulden wie eine veraltete Dokumentation aufzubauen. Wir befinden und jetzt am Beginn der Phase 2,
+in dieser werden immer schneller neue fachliche Anforderungen umgesetzt und ausgeliefert. Entwickler und Auftraggeber
+befinden sich die ganze zeit in einer Phase positiven Stresses. Die wird dadurch gekennzeichnet, dass jede beitragende
+Person sowohl über ausreichendes Wissen als auch über genügend Zeit zur Umsetzung seiner Anforderungen verfügt.
+Allerdings verfügt auch keine Person über etwas mehr Zeit, in der noch zusätzlich wie in Phase 1 Technologien,
+Frameworks oder Werkzeuge evaluiert werden könnten. Alles was eingesetzt wird, muss bereits beherrscht werden. Neue
+Dinge können nur über neue Teammitglieder oder über separate Schulungszeiten in den Entwicklungsprozess eingebracht
+werden.
+
+Theoretisch könnte ein Entwicklungsteam nun immer in dieser Phase verharren und sehr effizient weiter fachliche Features
+umsetzen. Leider wirken dem in der Praxis einige Faktoren entgegen. Als erstes wirken sich meist die Supportzyklen von
+eingesetzten Fremdprodukten aus. Ein Betriebssystem wird nicht mehr supported. Es bekommt keine Sicherheitsupdates mehr.
+Die ersten Programme, Werkzeuge oder Frameworks unterstützen das OS nicht mehr oder lassen sich nicht mehr installieren.
+Was bleibt ist nur das OS zu aktualisieren. Dies führt meist aber dazu, dass mit der neuen Produktversion die
+Werkzeuge und Frameworks in ihrer alten Version nicht mehr funktionieren. Es ist ein Dilemma - man kann das alte OS
+nicht weiter verwenden, weil einige Teile der Werkzeugkette oder Sicherheitsanforderungen eine neue Version benötigen
+und man kann die alten Werkzeuge nicht mehr alle verwenden, weil diese mit dem neuen Produkt nicht funktionieren.
+An dieser Stelle beginnt Phase 3, die Wartungsphase. Ab jetzt müssen nach und nach alle eingesetzten Frameworks,
+Werkzeuge und Betriebssysteme ja sogar Hardware aktualisiert werden. Um so mehr Fremdprodukte zum Einsatz kommen um
+so häufiger muss aktualisiert werden und um so kürzer werden die Zyklen in denen zu aktualisieren ist. Der Aufwand für
+Pflege und Wartung steigt beträchtlich. Ein weiterer Punkt sind bekannt werdende Sicherheitslücken wie
+link:https://de.wikipedia.org/wiki/Heartbleed[Heartbleed,role=external,window=_blank] oder
+link:https://en.wikipedia.org/wiki/Log4Shell[Log4Shell, role=external,window=_blank]. Sie müssen unverzüglich behoben
+werden oder erfordern das Ersetzen der betroffenen Frameworks. Phase 3 ist davon gekennzeichnet, dass bei unvermindert
+gleichbleibend oder steigender Last einströmender Anforderungen, zusätzlich die Wartungs- und Pflegeaufwände extrem
+ansteigen. Dem Entwicklungsteam bleibt dadurch immer weniger Zeit für die Realisierung der fachlichen Anforderungen.
+Dies ist die Geburtsstunde von nachlassender Qualität, Überschätzung der eigenen Leistungsfähigkeit, Auftreten erster
+Fehler oft sogar unbemerkt weil von keiner Seite reported oder entdeckt und dem Auftürmen technischer Schulden zu einer
+Bugwelle welche erst noch viel später wirklich für alle sichtbar wird.
+
+Wenn dieser Zeitpunkt zufällig mit einem Relanch des Produktes zusammenfällt ist alles wieder gut. Wenn aber nicht, dann
+kommen wir zur Phase 4. Hier werden die technischen Schulden plötzlich sichtbar. Die Leistung des Entwicklungsteams ist
+längst stark gesunken und das Management ist unzufrieden. Spätestens jetzt werden im Management Pläne gefasst, dass
+Produkt zu ersetzen, die Teams zu tauschen etc. Damit beginnt alles von vorn.
+
+Zusammenfassend kann man sagen bis Phase 3 ist alles gut. Dann wird es für das Entwicklungsteam anstrengend und stressig
+und wenn Phase 4 erreicht wird entsteht Frust und Demotivation welche sich hinderlich auf die Umsetzung neuer Projekte
+oder der Erstellung neuer Produkte auswirken kann wenn Personen daran mitwirken, welche diese demotivierenden
+Erfahrungen wiederholt durchleben mussten.
+
+

@@ -10,6 +10,8 @@ xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 [ xref:zone7/AbschiedFloridaArklab.adoc[Heute ist die Zukunft von gestern] ]
 [ xref:zone7/Anreise.adoc[Der Weg ist das Ziel] ]
 [ xref:zone7/MyHome.adoc[My home is my castle] ]
+[ xref:zone7/Vorbereitung.adoc[Vorbereitung ist das halbe Leben] ]
+[ xref:zone7/ErsteWoche.adoc[Meine erste Woche] ]
 
 25.12.4022 xref:zone7/Mein54Geburtstag.adoc[Mein 54. Geburtstag]
 
