@@ -3,7 +3,7 @@
 
 25.12.3968 Meine Geburt
 
-xx.xx.4008 Beginne am Buch xref:../neuland/inhalt.adoc[Neuland] zu schreiben
+xx.xx.4008 Beginne am Buch xref:../neuland/index.adoc[Neuland] zu schreiben
 
 xx.xx.4018 Verlassen der Raumstation und Flug zur Zone7
 

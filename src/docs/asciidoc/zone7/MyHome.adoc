@@ -50,8 +50,8 @@ Ideal wäre vielleicht die elfte oder zwölfte Etage, da dürfte der Ausblick no
 Ich habe mich an die hermetische Abschottung im 80. Stock gewöhnt, mir gefällt das." führt Mark weiter aus.
 "Aber jedem nach seinen Geschmack :)".
 
-"Wie sieht es eigentlich mit der individuellen Einrichtung der Wohnungen aus?" frage ich und schaue mir dabei sein Buchregal an. Mein Blick gleitet über eines der 
-Bücher mit dem Titel "xref:../neuland/inhalt.adoc[Neuland,role=external,window=_blank]". Oh, denke ich - er besitzt mein Buch, nice!
+"Wie sieht es eigentlich mit der individuellen Einrichtung der Wohnungen aus?" frage ich und schaue mir dabei sein Buchregal an. Mein Blick gleitet über eines der
+Bücher mit dem Titel "xref:../neuland/index.adoc[Neuland,role=external,window=_blank]". Oh, denke ich - er besitzt mein Buch, nice!
 "Naja, das meiste ist fest vorinstalliert aber bei Bedarf kannst Du Dir einen Service aus dem Gewerbegebiet kommen lassen oder selbst Teile besorgen und austauschen." "Und wie bekomme ich die dann in die Stadt?
 Ein neuer Schlafzimmerschrank wird vermutlich nicht ins Flugtaxi passen." "Das ist kein Problem.
 Dafür gibt es spezielle Drohnen.

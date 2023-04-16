@@ -13,8 +13,8 @@ ifndef::imagesdir[:imagesdir: images]
 
 
 
-* xref:zone7/einstieg.adoc[Zone 7,role=external,window=_blank]
-* xref:neuland/inhalt.adoc[Neuland,role=external,window=_blank]
+* xref:zone7/index.adoc[Zone 7,role=external,window=_blank]
+* xref:neuland/index.adoc[Neuland,role=external,window=_blank]
 
 ## Gedichte
 

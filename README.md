@@ -1,7 +1,7 @@
 # Open Books
 
 * [Zone 7](https://huluvu424242.github.io/open-books/zone7/einstieg.html)
-* [Neuland](https://huluvu424242.github.io/open-books/neuland/inhalt.html)
+* [Neuland](https://huluvu424242.github.io/open-books/neuland/index.html)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
