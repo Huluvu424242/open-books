@@ -5,3 +5,5 @@ Nicht nur ein Computer braucht ab und zu einen "Reset".
 
 Am 14.04.2003 wurde das menschliche Genom zu 99% entschlüsselt
 Am 15.05.2023 stieg Deutschland aus der Kernkraft aus uns schaltete die letzen 3 AKW ab.
+
+[ xref:zone7/ErsteWoche.adoc[Bessere Tage nahen - sie heißen Samstag & Sonntag] ]

@@ -10,4 +10,4 @@ suchen und mich auf meine erste Arbeitswoche vorzubereiten.
 
 
 
-[ xref:zone7/ErsteWoche.adoc[Sorgen sind wie Nudeln, man macht sich immer zu viele] ]
+[ xref:zone7/ErsterTag.adoc[In der Historie von AKW Ausstieg und Genomentschlüsselung] ]
