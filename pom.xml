@@ -83,7 +83,7 @@
                             <preserveDirectories>true</preserveDirectories>
                             <attributes>
                                 <imagesdir>./images</imagesdir>
-                                <toc>left</toc>
+<!--                                <toc>Auto</toc>-->
                                 <icons>font</icons>
                                 <sectanchors>true</sectanchors>
                                 <idprefix/>

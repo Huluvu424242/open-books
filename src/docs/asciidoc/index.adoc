@@ -6,6 +6,7 @@ ifndef::imagesdir[:imagesdir: images]
 
 :Author:    Thomas Schubert
 :Email:     <huluvu424242@gmail.com>
+:toc: left
 :toc-title: Übersicht
 :icons: font
 
